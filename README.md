@@ -1,4 +1,6 @@
 GitHub Favorites
+
+
 Aplicação web simples feita com HTML, CSS e JavaScript que permite buscar perfis no GitHub e salvar os repositórios favoritos de forma prática e visual.
 
 🎯 Funcionalidades
